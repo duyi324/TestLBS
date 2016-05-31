@@ -5,10 +5,6 @@
 
 ###参考文档
 
-- [列表List](https://github.com/XXApple/AndroidLibs/tree/master/%E5%88%97%E8%A1%A8List) 
-
-
-
 - [百度定位SDK官方文档](http://developer.baidu.com/map/loc_refer/index.html?com/baidu/location/)
 - [概述·Android定位SDK](http://lbsyun.baidu.com/index.php?title=android-locsdk)
 
