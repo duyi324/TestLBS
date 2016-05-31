@@ -3,7 +3,6 @@
 
 ![image](https://github.com/duyi324/TestLBS/raw/master/jpg/PIC1.png)
 ![image](https://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 
 ---
 
