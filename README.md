@@ -1,6 +1,8 @@
 # TestLBS
 测试百度定位SDK
 
+- [截图](http://github.com/duyi324/TestLBS/jpg/PIC1.png)
+
 ---
 
 ###参考文档
@@ -13,6 +15,9 @@
 - [Android Studio 中使用百度SDK出现162请求串密文解析失败的解决方案](http://blog.csdn.net/u010782846/article/details/50037897)
 
 ---
+
+
+
 
 For better Android developing~
 
