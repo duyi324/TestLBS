@@ -1,7 +1,7 @@
 # TestLBS
 测试百度定位SDK
 
-- [截图](http://github.com/duyi324/TestLBS/jpg/PIC1.png)
+![image](http://github.com/duyi324/TestLBS/jpg/PIC1.png)
 
 ---
 
